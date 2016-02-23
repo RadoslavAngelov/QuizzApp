@@ -24,3 +24,29 @@ C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-m
 C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tools\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
 C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tools\Crawler\obj\Debug\Crawler.exe
 C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tools\Crawler\obj\Debug\Crawler.pdb
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\Crawler.exe
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\Crawler.pdb
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\AngleSharp.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\EntityFramework.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Data.Common.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Data.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Data.Models.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Services.Data.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Services.Web.dll
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Data.Common.pdb
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Data.Models.pdb
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Data.pdb
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Services.Data.pdb
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\AngleSharp.xml
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\EntityFramework.xml
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\bin\Debug\MvcTemplate.Services.Web.pdb
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\obj\Debug\Crawler.exe
+C:\Users\Radoslav\Desktop\QuizzApp\Tools\Crawler\obj\Debug\Crawler.pdb

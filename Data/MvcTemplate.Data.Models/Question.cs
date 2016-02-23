@@ -1,8 +1,10 @@
 ﻿namespace MvcTemplate.Data.Models
 {
+    using Common.Models;
     using System.Collections.Generic;
 
-    public class Question
+
+    public class Question : BaseModel<int>
     {
         public string Content { get; set; }
 

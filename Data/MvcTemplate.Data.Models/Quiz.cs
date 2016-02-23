@@ -1,6 +1,8 @@
 ﻿namespace MvcTemplate.Data.Models
 {
-    public class Quiz
+    using MvcTemplate.Data.Common.Models;
+
+    public class Quiz : BaseModel<int>
     {
         public string Title { get; set; }
 

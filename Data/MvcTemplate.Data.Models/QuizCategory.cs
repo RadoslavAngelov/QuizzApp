@@ -1,8 +1,9 @@
 ﻿namespace MvcTemplate.Data.Models
 {
+    using Common.Models;
     using System.Collections.Generic;
 
-    public class QuizCategory
+    public class QuizCategory : BaseModel<int>
     {
         public string Name { get; set; }
 

@@ -1,6 +1,8 @@
 ﻿namespace MvcTemplate.Data.Models
 {
-    public class Answer
+    using MvcTemplate.Data.Common.Models;
+
+    public class Answer : BaseModel<int>
     {
         public string Content { get; set; }
 

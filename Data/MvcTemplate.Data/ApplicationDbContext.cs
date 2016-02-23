@@ -21,6 +21,13 @@
 
         public IDbSet<JokeCategory> JokesCategories { get; set; }
 
+
+        public IDbSet<QuizCategory> QuizCategories { get; set; }
+
+        public IDbSet<Question> Questions { get; set; }
+
+        public IDbSet<Answer> Answers { get; set; }
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
@@ -52,5 +59,7 @@
                 }
             }
         }
+
+        public System.Data.Entity.DbSet<MvcTemplate.Data.Models.Quiz> Quizs { get; set; }
     }
 }
