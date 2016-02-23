@@ -1,0 +1,17 @@
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Services.Data.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Services.Data.pdb
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Data.Common.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Data.Models.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Services.Web.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\EntityFramework.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Data.Common.pdb
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Data.Models.pdb
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Services.Web.pdb
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\EntityFramework.xml
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\obj\Debug\MvcTemplate.Services.Data.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\obj\Debug\MvcTemplate.Services.Data.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Data\obj\Debug\MvcTemplate.Services.Data.pdb

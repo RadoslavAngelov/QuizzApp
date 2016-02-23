@@ -1,0 +1,9 @@
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\MvcTemplate.Services.Web.Tests.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\MvcTemplate.Services.Web.Tests.pdb
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\MvcTemplate.Services.Web.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\MvcTemplate.Services.Web.pdb
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tests\MvcTemplate.Services.Web.Tests\obj\Debug\MvcTemplate.Services.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tests\MvcTemplate.Services.Web.Tests\obj\Debug\MvcTemplate.Services.Web.Tests.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Tests\MvcTemplate.Services.Web.Tests\obj\Debug\MvcTemplate.Services.Web.Tests.pdb

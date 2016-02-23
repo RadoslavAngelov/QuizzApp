@@ -1,0 +1,4 @@
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\MvcTemplate.Common\bin\Debug\MvcTemplate.Common.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\MvcTemplate.Common\bin\Debug\MvcTemplate.Common.pdb
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\MvcTemplate.Common\obj\Debug\MvcTemplate.Common.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\MvcTemplate.Common\obj\Debug\MvcTemplate.Common.pdb

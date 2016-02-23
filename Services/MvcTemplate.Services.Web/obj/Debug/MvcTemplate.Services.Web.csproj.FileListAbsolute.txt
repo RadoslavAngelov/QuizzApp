@@ -1,0 +1,5 @@
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Web\bin\Debug\MvcTemplate.Services.Web.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Web\bin\Debug\MvcTemplate.Services.Web.pdb
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Web\obj\Debug\MvcTemplate.Services.Web.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Web\obj\Debug\MvcTemplate.Services.Web.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Services\MvcTemplate.Services.Web\obj\Debug\MvcTemplate.Services.Web.pdb

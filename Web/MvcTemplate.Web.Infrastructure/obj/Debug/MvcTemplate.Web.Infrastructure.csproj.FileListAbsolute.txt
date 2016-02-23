@@ -1,0 +1,7 @@
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Web\MvcTemplate.Web.Infrastructure\bin\Debug\MvcTemplate.Web.Infrastructure.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Web\MvcTemplate.Web.Infrastructure\bin\Debug\MvcTemplate.Web.Infrastructure.pdb
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Web\MvcTemplate.Web.Infrastructure\bin\Debug\AutoMapper.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Web\MvcTemplate.Web.Infrastructure\bin\Debug\AutoMapper.xml
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Web\MvcTemplate.Web.Infrastructure\obj\Debug\MvcTemplate.Web.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Web\MvcTemplate.Web.Infrastructure\obj\Debug\MvcTemplate.Web.Infrastructure.dll
+C:\Users\Radoslav\Desktop\ASP.NET-MVC-Template-master (1)\ASP.NET-MVC-Template-master\Source\Web\MvcTemplate.Web.Infrastructure\obj\Debug\MvcTemplate.Web.Infrastructure.pdb
