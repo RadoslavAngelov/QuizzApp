@@ -59,10 +59,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Answer.cs" />
+    <Compile Include="AnswerChoice.cs" />
     <Compile Include="ApplicationUser.cs" />
     <Compile Include="Joke.cs" />
     <Compile Include="JokeCategory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Question.cs" />
+    <Compile Include="Quiz.cs" />
+    <Compile Include="QuizManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
